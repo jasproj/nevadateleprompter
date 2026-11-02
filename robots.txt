@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nevadateleprompter.com/sitemap.xml
+
+# Nevada Teleprompter - Professional Teleprompter Services
+# Part of the National Teleprompter Network
+# A Claduta Corp Company
